@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ceflynn
 - 👀 I’m interested in computer science and coding.
-- 🌱 I’m currently learning javaScript
+- 🌱 I’m currently learning javaScript and python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
