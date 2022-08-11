@@ -2,7 +2,7 @@
 - 👀 I’m interested in computer science and coding.
 - 🌱 I’m currently learning javaScript and python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 ceflynn@gmail.com
 
 <!---
 ceflynn/ceflynn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
