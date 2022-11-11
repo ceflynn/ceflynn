@@ -1,7 +1,5 @@
-- 👋 Hi, I’m Chris Flynn
-- 👀 I’m interested in computer science and coding
-- 🌱 I’m currently a data science student at Flatirons School
-- 💞️ I’m looking to collaborate on anything that can get me more experience
+## Chris Flynn
+- Data Scientist with Public Education Background
 - 📫 ceflynn@gmail.com
 
 <!---
